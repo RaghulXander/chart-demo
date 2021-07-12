@@ -1,0 +1,46 @@
+{
+    "communication": {
+        "comprehension": {
+            "english": 97,
+            "lexical": {
+                "Antonyms": 97,
+                "Articles": {},
+                "Change of Voice": {},
+                "Cloze": 94,
+                "Conjunctions": {},
+                "Error detection": 94,
+                "Idioms": 94,
+                "One Word Substitutes": 94,
+                "Prepositions": {},
+                "Sentence": 0,
+                "Subject Verb agreement": {},
+                "Synonyms": 1,
+                "Tenses": {},
+                "overall": 118.5
+            },
+            "listening": 1,
+            "overall": 24.5
+        },
+        "verbal": {
+            "overall": 48.0,
+            "presentation": 0,
+            "pronunciation": 97,
+            "reading": 94,
+            "speaking": 1
+        },
+        "written": {
+            "essay": 1,
+            "grammar": {
+                "Articles": 97,
+                "Change of Voice": 94,
+                "Conjunctions": 1,
+                "Prepositions": 94,
+                "Subject Verb agreement": 94,
+                "Tenses": 0,
+                "overall": 95.0
+            },
+            "overall": 24.5,
+            "spelling": 97
+        }
+    }
+}
